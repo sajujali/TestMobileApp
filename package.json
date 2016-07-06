@@ -1,0 +1,6 @@
+{
+  "main": "washdoor.js",
+  "dependencies": {
+    "tabris": "^1.8.0"
+  }
+}
